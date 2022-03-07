@@ -1,6 +1,6 @@
-Tasks 0. Script that prints “Hello, World”, followed by a new line to the standard output.
+Tasks 0. Script that prints “Hello, World”, followed by a new line to the standard output. /n
 
-Script that displays a confused smiley "(Ôo)'.
+Script that displays a confused smiley "(Ôo)'. /n
 Script that displays the content of the /etc/passwd file.
 Script that displays the content of /etc/passwd and /etc/hosts
 Script that displays the last 10 lines of /etc/passwd
