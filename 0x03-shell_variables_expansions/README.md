@@ -1,3 +1,3 @@
-0. Task 0
-1. Task 1
-3. Task 2
+0. Script that creates an alias
+1. Script that prints hello user
+3. Adding action to path
