@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
-# Bash script that stops 4-to_infinity_and_beyond process
-n="$(pgrep -f 4-to_infinity_and_beyond)"
-kill "$n"
+# Bash script that displays To infinity and beyond indefinitely
+while :;
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
